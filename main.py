@@ -10,7 +10,7 @@ from texts import get_text
 from utils import generate_dashboard, format_currency
 
 load_dotenv()
-TOKEN = os.getenv("8317433604:AAEYFaMyuUbySmhi3R5JYDxvlGaUhP1U3HI")
+TOKEN = os.getenv("BOT_TOKEN")
 
 # States
 SELECT_TYPE, SELECT_CATEGORY, CUSTOM_CATEGORY, ENTER_AMOUNT, REMINDER_DESC, REMINDER_DATE = range(6)
