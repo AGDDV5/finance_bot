@@ -1,0 +1,7 @@
+python-telegram-bot[job-queue]
+sqlalchemy
+pandas
+openpyxl
+matplotlib
+xlsxwriter
+python-dotenv
